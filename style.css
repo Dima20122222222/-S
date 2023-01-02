@@ -1,0 +1,28 @@
+.maine-title {
+    color: blue;
+    text-align: center;
+}
+
+.Hes-item {
+    width: 200px;
+    height: 150px;
+    border: 2px dashed cornflowerblue;
+    background-size:cover;
+    text-align: center;
+    padding-top: 20px;
+    flex-wrap: wrap;
+    background-color: rgb(21, 0, 255);
+}
+
+.Hes-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;      
+    /*background: url(./images/4638.jpg); */
+    list-style: none;
+    background-color: rgb(98, 255, 0);
+    }
+
+.Hes-name {
+    color: rgb(229, 255, 0);
+}
